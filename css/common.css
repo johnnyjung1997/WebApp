@@ -275,7 +275,7 @@
       /* index */
       .index-top{height: 30vh; width: 100%;}
       .content-wrapper{width: 100%; height: auto;max-height: 57vh; overflow: scroll; display: flex; padding: 0 2%; gap: 3%;flex-wrap: wrap;}
-      .content{width: 31.333%; height: 150px; background-color: white; opacity: 0.5; border-radius: 10px; margin-top: 16px;    box-shadow: 0 0 8px 0 rgb(187 187 187);}  
+      .content{width: 22.733%; height: 150px; background-color: white; opacity: 0.5; border-radius: 10px; margin-top: 16px;    box-shadow: 0 0 8px 0 rgb(187 187 187);}  
       
       /* custom edit */
       .bold-five{font-weight: 500;}
